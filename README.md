@@ -9,12 +9,12 @@
 - 熟练Linux操作系统，如RedHat、CentOS等常见发行版本
 - 熟悉三剑客Awk、Sed、Grep进行文本处理
 - 熟练LVS、Nginx、Haproxy、keepalived应用服务的部署安装配置
-- 熟悉Ansible、SSH自动运维工具，实现代负载均衡服务器的原理、部署及优化
+- 熟练使用Ansible自动运维工具
 - 熟悉ELK、Prometheus、Grafana等日志收集工具
 - 熟悉Redis应用的部署配置安装
 - 熟悉SkyWalking链路追踪安装使用
-- 熟练Docker和kubernetes容器编排工具
-- 熟练Jenkins、Gitlab等CI/CD软件的使用
+- 熟练使用Docker和kubernetes容器编排工具
+- 熟练使用Jenkins、Gitlab等CI/CD软件的使用
 - 熟悉Envoy和Istio服务网格相关开源产品
 
 
